@@ -21,5 +21,5 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🛠️ Primeiros projetos
-![clothes.com](https://github.com/walkerviani/projeto-lojaroupas)  
-![O labrador](https://github.com/xLeywin/OLabrador)
+Projeto Java com Spring: ![clothes.com](https://github.com/walkerviani/projeto-lojaroupas)  
+Projeto C# com ASP.NET: ![O labrador](https://github.com/xLeywin/OLabrador)
