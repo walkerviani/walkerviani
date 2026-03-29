@@ -20,6 +20,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 🛠️ Primeiros projetos
+## 🛠️ Projetos
 Projeto Java com Spring: ![clothes.com](https://github.com/walkerviani/projeto-lojaroupas)  
-Projeto C# com ASP.NET: ![O labrador](https://github.com/xLeywin/OLabrador)
+Projeto C# com ASP.NET: ![O labrador](https://github.com/xLeywin/OLabrador)  
+Projeto Android com Java: ![calculadora_simples](https://github.com/walkerviani/calculadora_simples)
+
