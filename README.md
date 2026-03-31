@@ -23,5 +23,4 @@
 ## 🛠️ Projetos
 Projeto Java com Spring: ![clothes.com](https://github.com/walkerviani/projeto-lojaroupas)  
 Projeto C# com ASP.NET: ![O labrador](https://github.com/xLeywin/OLabrador)  
-Projeto Android com Java: ![calculadora_simples](https://github.com/walkerviani/calculadora_simples)
 
